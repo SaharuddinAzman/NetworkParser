@@ -2,5 +2,5 @@
 Script to Parse the Network
 
 # Installation
-git clone 
+git clone
 pip install -r requrement
